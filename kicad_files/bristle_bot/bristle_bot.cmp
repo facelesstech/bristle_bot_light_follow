@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Tue 12 Jul 2016 17:03:19 BST
+
+BeginCmp
+TimeStamp = /57827288;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = battery_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785146C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /578513D5;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /578277E3;
+Reference = M1;
+ValeurCmp = PAGER_MOTOR;
+IdModule  = pager_motor_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /5782801C;
+Reference = M2;
+ValeurCmp = PAGER_MOTOR;
+IdModule  = pager_motor_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /578278B4;
+Reference = Q1;
+ValeurCmp = 2N7000;
+IdModule  = 2N7000;
+EndCmp
+
+BeginCmp
+TimeStamp = /57828032;
+Reference = Q2;
+ValeurCmp = 2N7000;
+IdModule  = 2N7000;
+EndCmp
+
+BeginCmp
+TimeStamp = /57827EE1;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5782803E;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5785145C;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /578513EE;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5782721D;
+Reference = RV1;
+ValeurCmp = POT;
+IdModule  = pot_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /5782804A;
+Reference = RV2;
+ValeurCmp = POT;
+IdModule  = pot_custom;
+EndCmp
+
+BeginCmp
+TimeStamp = /5783B2B4;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = switch_small_custom;
+EndCmp
+
+EndListe
